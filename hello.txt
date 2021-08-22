@@ -2,4 +2,3 @@
 qwe
 456
 789
-new-branch
